@@ -1,7 +1,7 @@
 import re
 import sys
 from pyspark import SparkConf, SparkContext
-
+# i accidentally used data file of the other assignment for this. i got it right so its ok
 conf = SparkConf()
 sc = SparkContext(conf=conf)
 lines = sc.textFile(sys.argv[1])

@@ -1,0 +1,2 @@
+# dir py data out
+spark/bin/spark-submit $1/$2 $1/$3 $1/$4
