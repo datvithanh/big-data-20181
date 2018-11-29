@@ -1,0 +1,6 @@
+a. 
+python component.py
+b.
+python shortest-path.py [word1] [word2]
+c.
+python girvan-newman.py [So canh co betweenness lon nhat]
